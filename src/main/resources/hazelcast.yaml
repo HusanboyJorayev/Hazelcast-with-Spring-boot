@@ -1,0 +1,4 @@
+hazelcast:
+  map:
+    usersCache:
+      time-to-live-seconds: 10
